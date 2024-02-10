@@ -11,7 +11,7 @@ Progression outcomes as defined by the University regulations (see the table).
 ### A. Outcomes
 • The program allows students to predict their progression outcome at the end of each academic year. The program prompt for the number of credits at pass, defer and fail and then display the appropriate progression outcome for an individual student (i.e., progress, trailing, module retriever or exclude).
  
-### B. Validation (12 marks)
+### B. Validation 
 • The program display ‘Integer required’ if a credit input is the wrong data type. 
 • The program display ‘Out of range’ if credits entered are not in the range 0, 20, 40, 60, 80, 100 and 120. 
 • The program display ‘Total incorrect’ if the total of the pass, defer and fail credits is not 120. 
@@ -98,7 +98,7 @@ Excluded 1 : *
 
 5 outcomes in total. 
 
-## Part 2 – List (extension) (6 marks) 
+## Part 2 – List (extension) 
 For Part 1, most of the solutions would use variables to store the input data. For Part 2, extend your solution so that the program saves the input progression data to a list or nested list. Then access the stored data from the list and print the data in the following format below. Test plan not required. 
 
 Example Output: The following should display after the histogram 
